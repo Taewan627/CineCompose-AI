@@ -1,0 +1,5 @@
+{
+  "name": "CineCompose AI",
+  "description": "Generate high-budget cinematic stills using AI. Compose scenes with specific film styles, lighting, and custom character references.",
+  "requestFramePermissions": []
+}
