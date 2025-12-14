@@ -73,3 +73,5 @@ A **cinematic scene composition UI** that generates film-style scenes using **pr
 - **Action**: Core narrative action
 - **Visual cues**: Lighting, weather, atmosphere, camera motion
 
+https://huggingface.co/spaces/devmeta/cinecompose-ai
+
